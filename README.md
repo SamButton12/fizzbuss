@@ -1,1 +1,1 @@
-# fizzbuss
+# fizzbuzz
